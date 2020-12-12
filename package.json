@@ -1,6 +1,6 @@
 {
   "name": "broccoli-asset-rev-playframework",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "description": "broccoli asset revisions (fingerprint) for Play Framework",
   "main": "lib/asset-rev.js",
   "files": [
