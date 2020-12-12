@@ -1,5 +1,7 @@
 # broccoli-asset-rev-playframework
 
+![Node.js CI](https://github.com/dwickern/broccoli-asset-rev-playframework/workflows/Node.js%20CI/badge.svg)
+
 A customized [broccoli-asset-rev](https://github.com/ember-cli/broccoli-asset-rev) plugin to produce fingerprinted assets suitable for [Play Framework](https://www.playframework.com).
 
 Produces digested files using conventions described in [sbt-digest](https://github.com/sbt/sbt-digest). This plugin does URL replacement more reliably than [sbt-simple-url-update](https://github.com/neomaclin/sbt-simple-url-update).
