@@ -36,7 +36,8 @@
   },
   "homepage": "https://github.com/dwickern/broccoli-asset-rev-playframework",
   "dependencies": {
-    "broccoli-asset-rev": "^3.0.0"
+    "broccoli-asset-rev": "^3.0.0",
+    "broccoli-asset-rewrite": "dwickern/broccoli-asset-rewrite#less-permissive-regex"
   },
   "devDependencies": {
     "broccoli": "^0.13.3",
